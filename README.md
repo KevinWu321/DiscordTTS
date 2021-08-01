@@ -1,2 +1,2 @@
-# DiscordTTS
-TTS/Music Bot for discord server
+# DiscordBot
+Private Discord bot
